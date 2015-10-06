@@ -1,6 +1,8 @@
 ONGR Elastic Search Bundles Installation
 ========================
 
+[![Join the chat at https://gitter.im/r0lakas/ONGRSeed](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/r0lakas/ONGRSeed?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This documentation is for testing ONGR Bundles.
 
   1. [Environment Preparation](environment.md)
